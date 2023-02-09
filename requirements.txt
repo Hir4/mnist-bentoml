@@ -1,0 +1,4 @@
+bentoml
+requests
+scikit-learn
+numpy

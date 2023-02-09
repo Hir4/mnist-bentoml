@@ -1,0 +1,6 @@
+service: "service:mnist_service"
+labels:
+  owner: Fael
+  stage: dev
+include:
+  -"*.py"
